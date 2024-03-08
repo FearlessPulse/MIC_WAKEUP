@@ -1,0 +1,18 @@
+﻿- **功能代码运行：**
+
+```bash
+$ chmod 777 run.sh
+$ ./run.sh
+```
+
+![image-20240308151756441](../../../../.config/Typora/typora-user-images/image-20240308151756441.png)
+
+- **退出运行：点击键盘 ' s ' 键；**
+
+- **唤醒词修改：**
+
+```bash
+$ vim wakeup/bin/resource/keyword-ykl.txt
+```
+
+**注：我发现 ‘ 你好小迪 ’ 是存在固件中的无法删除；**
